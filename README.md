@@ -9,3 +9,5 @@ When the user selects one of the regions from the dropdown (this excludes Antarc
 The only question anybody asked me about my program was how it was getting the data. I explained the idea of a RestAPI as essentially being an online database setup with features to allow me to interact with it via an API key, and how the data was being pulled from the internet rather than it being stored somewhere in my computer. Other than that, I did not get any real questions as to how it works.
 
 I was able to complete every part of the assignment.
+
+Most of the structs for pulling from RestCountries were made by AI, and for several other parts of the project I used the RestDemo from class as a template of sorts. I did need to look up many commands from the Fyne library to get the project to work (especially for the flag image), but other than the structs I did not copy much from AI.
